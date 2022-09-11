@@ -9,5 +9,5 @@ Here is the First visualization of government debt using Flourish. This grid of 
 
 
 ## Flourish Exercise #2
-This second visualization created on Flourish allows you to toggle by country. This chart could be easier than the grid if someone wanted to focus on just a few countries in particular, and easily see the differences by toggling back and forth. 
+This second visualization created on Flourish allows you to toggle by country. This chart could be easier than the grid if someone wanted to focus on just a few countries in particular, and easily see the differences by toggling back and forth. Although this chart gives less easy analysis from a global perspective, it would be useful in the case of someone wanting to explore the Debt to GDP ratio by country, and gives a clearer picture of an individual country than the grid of charts.
 <div class="flourish-embed flourish-chart" data-src="visualisation/11153459"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
