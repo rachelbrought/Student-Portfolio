@@ -8,4 +8,5 @@ I hope to learn how to create striking, accessible, and legible data visualizati
 # Portfolio
 This is my work
 ## Assignment One
+Here is the link to visualizing government debt exercise created with Flourish: https://rachelbrought.github.io/Student-Portfolio/GovDebtFlourish
 ## Final Project
