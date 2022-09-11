@@ -8,5 +8,6 @@ I hope to learn how to create striking, accessible, and legible data visualizati
 # Portfolio
 This is my work
 ## Assignment One
+<iframe src="https://data.oecd.org/chart/6Ofz" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</iframe>
 Here is the link to visualizing government debt exercise created with Flourish: https://rachelbrought.github.io/Student-Portfolio/GovDebtFlourish
 ## Final Project
