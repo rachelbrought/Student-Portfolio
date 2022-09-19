@@ -12,6 +12,7 @@ This is my work:
 # Assignment One
 [Visualizing Government Debt](https://rachelbrought.github.io/Student-Portfolio/GovDebtFlourish)
 
-
+# Assignments 3 & 4
+[Critique by Design] (https://rachelbrought.github.io/Student-Portfolio/CritiqueByDesign)
 
 ## Final Project
