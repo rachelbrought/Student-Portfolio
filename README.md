@@ -13,6 +13,6 @@ This is my work:
 [Visualizing Government Debt](https://rachelbrought.github.io/Student-Portfolio/GovDebtFlourish)
 
 # Assignments 3 & 4
-[Critique by Design] (https://rachelbrought.github.io/Student-Portfolio/CritiqueByDesign)
+[Critique by Design](https://rachelbrought.github.io/Student-Portfolio/CritiqueByDesign)
 
 ## Final Project
