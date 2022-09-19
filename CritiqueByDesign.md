@@ -6,10 +6,15 @@ This visualization shows, based on survey respondents' preferred arts and cultur
 Here is the image:
 ![Play to Emotional strengths](https://user-images.githubusercontent.com/112904052/191043547-2dd595f4-9cc9-4655-9c48-b4207df54dda.jpeg)
 
+## Critique
 This chart, while conveying quite important information relevant to those in the arts and culture nonprofit sector, is not easily readable at first. The first thing I noticed while looking at this graph was an excessive amount of text and color. Next, I noticed that I wanted to immediately find "art museum" and then see what people are saying about it. I found that it took awhile for me to fully find and digest the data points relevant to art musuem.
 As you can see, there are multiple variables: Preferred arts experience (Children's museum, dance performance, etc), Qualities (Beautiful, Active, fun, etc), and highest qualities chosen, percent-wise. 
 
-Because this data visualization is used to educate arts managers, I figured it would be more useful if they could quickly naviagte to their specific field, and then play around with comparing it to others should they have the time. But I figured the priority should be that they find their field easily, and be able to read the relevant information. The bubbles corresponding to the small legend at the top made it a bit difficult to look back and forth and see what each colored bubble corresponded to, especially because the color scheme is the "Rainbow Method", in which the colors don't have any inherent meaning other than separating values.
+The primary audience for this tool is administrators of arts and culture audiences. I definitely think it is effecting in reaching that audience, mainly because this report was anticipated and the data they found was used widely by arts organizations. However, I think if you were skimming through this report and trying to receive information about your industry quickly, you might skip over this chart because it just demands too much searching to find the information that you want.
+
+I think when you are considering who is using this chart and why, it becomes clear that people would want to easily see their type of organization, and then see what people are saying about it. So overall what isn't being captured here is the ease of professionals encountering the information that is relevant to them." "I think this method is effective at evaluating the data. I think it could include something on the first glance approach--how long did it take to understand the data portrayed for example. Additionally, there could be a separate section for whether the type of visualization is fitting for the information displayed.
+
+The bubbles corresponding to the small legend at the top made it a bit difficult to look back and forth and see what each colored bubble corresponded to, especially because the color scheme is the "Rainbow Method", in which the colors don't have any inherent meaning other than separating values.
 I also thought that the Title and Survey question made the chart a bit difficult to understand from the outset, and thought it might be a bit too wordy. Additionally, the bubbles make it difficult to actually compare the percentages represented--the size of them has little orientation to anything else, and makes 57% look vastly different from 49%, for example.
 
 Overall, although it is stylistically pleasant and has very useful information, I just thought there was a bit too mcuh going on.
@@ -33,6 +38,9 @@ Finally, using the raw dataset provided by Culture Track, I tried to re-create m
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11181098"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Some issues with Flourish
 Trying to use the raw data and transfer this Canva mockup to Flourish Proved a bit difficult. In my final design using the imported raw data file, I was unable to get Flourish to not display null values, so there are large blank spaces between the bars. 
 Another problem I ran into with using Flourish was trying to get the "quality" (Beautiful, Fun and entertainging, etc) To appear next to the bars on the bar graph. So I think my final design is still slightly unclear because you have to refer up to the legend, which I would rather not have done. Ideally, my Flourish design would have looked more like my canva mockup--and users could easly navigate between arts institutions like they can now.
+Additionally, I could not figure out how to get flourish to display the numbers with the % next to them, even though I added % to the data in the tables. 
+
 In the final design, despite my limitations with using Flourish, I think the data appears more clean and neat, and is more easily identifiable. Although each category still maintains a different color, the use of cool and warm color schemes makes analysis a bit neater as well. Finally, I was able to find a title that encompasses all of the necessary information from the orginal wordy visualization.
