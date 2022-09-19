@@ -23,6 +23,14 @@ I took this sketch to get feedback from 4 different people, and the feedback was
 
 For my next sketch, I decided to do a stylistic mockup on Canva and create a more sensible and less overwhelming color pallette. I decided to have warm colors represent more external qualities, such as active, adventurous, and social--and have cool colors represent more internal, emotional qualities like challenging/thought provoking, beautiful, and emotionally powerful. I also deleted the Survey question and made the title more clear so that the inclusion of the question wasn't necessary. 
 Here is my second sketch that I made via canva:
+
 <img width="751" alt="Screen Shot 2022-09-19 at 11 05 39 AM" src="https://user-images.githubusercontent.com/112904052/191050091-64d919f9-ed90-40db-a550-dadf8f050735.png">
 
 
+This is ideally how I wanted the final version to look: With clear labels of the "quality" on the Y axis, as well as the percent displayed right next to the bar. Because I had in mind how an arts manager would use this visulazaiton, I planned on making it possible to toggle between arts organizations and only display one at a time. I also decided that I wanted to include totals (which did appear in the raw data) for the purpose of comparing and contrasting. 
+
+Finally, using the raw dataset provided by Culture Track, I tried to re-create my mockup in Flourish. Here is the result:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11181098"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Trying to use the raw data and transfer this Canva mockup to Flourish Proved a bit difficult. In my final design using the imported raw data file, I was unable to get Flourish to not display null values, so there are large blank spaces between the bars. 
