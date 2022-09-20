@@ -26,6 +26,11 @@ I also wanted to get rid of some of the extraneous use of color by making labels
 ![306469799_1544743732644196_3791553261238714837_n](https://user-images.githubusercontent.com/112904052/191048512-1d7cacc6-0fb3-458f-8f55-b797ee4a6145.jpg)
 
 I took this sketch to get feedback from 4 different people, and the feedback was relatively consistent. Most said they were able to understand what the chart was about fairly easily, but that the large text of the survey question was distracting and took a while to process. They also mentioned that the color was a bit distracting and all over the place, and did not immediately understand that some colors repeat. They did mention, however, that it was easy to find a specific type arts and culture experience and then analyze the data from there. After the initial feedback, I asked each person to look at the original. All of them said they thought that the bar graphs made more sense than the bubbles.
+Some specific comments I pulled out from my feedback process were: 
+- "I feel like that survey question just makes the chart more confusing"
+- "I didn't realize until I looked at it for awhile that some of the colors and attributes repeat."
+- "The first thing I paid attention to were all the words at the top."
+- "I found history museum really quickly"
 
 For my next sketch, I decided to do a stylistic mockup on Canva and create a more sensible and less overwhelming color pallette. I decided to have warm colors represent more external qualities, such as active, adventurous, and social--and have cool colors represent more internal, emotional qualities like challenging/thought provoking, beautiful, and emotionally powerful. I also deleted the Survey question and made the title more clear so that the inclusion of the question wasn't necessary. 
 Here is my second sketch that I made via canva:
