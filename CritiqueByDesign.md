@@ -30,7 +30,7 @@ Some specific comments I pulled out from my feedback process were:
 - "I feel like that survey question just makes the chart more confusing"
 - "I didn't realize until I looked at it for awhile that some of the colors and attributes repeat."
 - "The first thing I paid attention to were all the words at the top."
-- "I found history museum really quickly"
+- "I found historic site really quickly"
 
 For my next sketch, I decided to do a stylistic mockup on Canva and create a more sensible and less overwhelming color pallette. I decided to have warm colors represent more external qualities, such as active, adventurous, and social--and have cool colors represent more internal, emotional qualities like challenging/thought provoking, beautiful, and emotionally powerful. I also deleted the Survey question and made the title more clear so that the inclusion of the question wasn't necessary. 
 Here is my second sketch that I made via canva:
