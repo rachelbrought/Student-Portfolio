@@ -16,3 +16,4 @@ This is my work:
 [Critique by Design](https://rachelbrought.github.io/Student-Portfolio/CritiqueByDesign)
 
 ## Final Project
+[Final Project Part One: Planning and Sketching] (https://rachelbrought.github.io/Student-Portfolio/FinalPartOne)
