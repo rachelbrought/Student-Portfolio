@@ -29,5 +29,27 @@ Here are my initial sketches, imaginging a continuous scroll on a Shorthand page
 ![308021610_621827669610207_902658532078061107_n](https://user-images.githubusercontent.com/112904052/192319416-0804fa2b-655a-4361-bd71-8e466948940d.jpg)
 
   
+## Data
+My primary data sources will be: 
+1. Culture Track’s 2017 Top Line Report about Audience Engagement and the Arts
+   Raw data excel sheet available for download: https://culturetrack.com/research/reports/
+This report is about a paradigm shift in 2017 in Arts Participation. It outlines who is going where, demographics, user preferences, economic value, and many other aspects of audience engagement with the arts. I will primarily be using this study for its findings on “the Digital Dilemma” as it demonstrates what audiences in 2017 valued in digital arts experiences, who want them the most, and at what types of arts orgs they are most preferred.
 
+2. 2012 Survey of Public Participation in the Arts from the NEA. Rraw data is available in SPSS, SAS, and STATA form here: https://www.arts.gov/impact/research/publications/decade-arts-engagement-findings-survey-public-participation-arts-2002-2012 along with a data user guide.
+ This is a very extensive NEA Survey Report that gives a holistic view of who, when, and where there is audience participation in the arts and culture sector and shows a decade of changes 2002-2012. I will be using this data to show the differences in demographics and access to museums: How differently-abled people participate differently, as well as what public perceptions of museums are (as a case for why digital access may appeal more to some visitors.) 
+
+3. The Household Pulse Survey run by the U.S. Census Bureau. Raw data tables (excel) available here: https://www.census.gov/data/experimental-data-products/household-pulse-survey.html
+ The Household Pulse Survey has been employed since March 2020. It is measuring household activity during the Covid-19 Pandemic. This is a very comprehensive survey that includes many aspects of family life, but I will be pulling out two of their sections for my own report: At-home internet usage and access (increase since march 2020) as well as At home children’s educational activities (Hours have increased). Both of these statistics will show how more people are using the internet, as well as searching for participatory education opportunities for their children.
+
+4. Wayback Machine: Visual Timeline of a Singular Arts Organizaitons’ journey to enriching digital content
+ This is data that I will be collecting myself via the Wayback machine. I don’t have an organization picked out yet as I am still benchmarking different ones to try and find one that is a really good example of best practice. But I will use the Wayback machine and document certain points in time where they added more or changed their digital offerings just to show a practical example of how this can be done. Additionally, if I can find information on public participation over time for these activities, I will include that.
+
+
+## Method and Medium
+I plan on producing this storyline on Shorthand, as a singular scroll with the main sections I described in my Outline. For my visualizations, I will be using Shorthand and creating bar graphs and line graphs. I will also make smaller, non-comparative data visualizations (infographics) via Canva. 
+Additionally, I plan to use Canva to make my timeline of an arts organization’s digital journey, as it is not straightforward data-wise and Flourish probably wouldn’t work for it.
+
+I would also like to give some engaging and interesting examples of how a variety of institutions have approached digital audience engagement. To do that, I would like to make a photo album/flipbook on Shorthand (or on Sway and embed it on Shorthand) that users can flip through at their leisure to see examples.
+
+For my one-minute presentation, I am planning on showing my Shorthand briefly but mainly giving the high-level overview and main compelling visualizations on the Shorthand. After I have it all built out and practice my presentation, I may decide to highlight only one visualization for my presentation.
 
