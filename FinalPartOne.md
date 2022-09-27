@@ -55,3 +55,5 @@ For my one-minute presentation, I am planning on showing my Shorthand briefly bu
 
 ## Notes from Critique on 9/27
 Critique participants mentioned that the value proposition for more digital content may need to be strengthened. I plan on highlighting more clearly how it is mission serving to reach more audiences via digital offerings, and also to bring in some of the educational data I have from the household pulse survey. Showing that families are increasingly looking towards online methods for at home educational experiences for children can be part of the value proposition in why education departments of arts organizations can/should offer online learning opportunities.
+What they liked:
+They mentioned that they liked the titles I used for separate sections, and that the flow made sense overall. 
