@@ -53,3 +53,5 @@ I would also like to give some engaging and interesting examples of how a variet
 
 For my one-minute presentation, I am planning on showing my Shorthand briefly but mainly giving the high-level overview and main compelling visualizations on the Shorthand. After I have it all built out and practice my presentation, I may decide to highlight only one visualization for my presentation.
 
+## Notes from Critique on 9/27
+Critique participants mentioned that the value proposition for more digital content may need to be strengthened. I plan on highlighting more clearly how it is mission serving to reach more audiences via digital offerings, and also to bring in some of the educational data I have from the household pulse survey. Showing that families are increasingly looking towards online methods for at home educational experiences for children can be part of the value proposition in why education departments of arts organizations can/should offer online learning opportunities.
