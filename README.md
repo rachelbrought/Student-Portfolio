@@ -17,3 +17,4 @@ This is my work:
 
 ## Final Project
 [Final Project Part One--Planning and Sketching](https://rachelbrought.github.io/Student-Portfolio/FinalPartOne)
+[Final Project Part Two--User research on Storyboard](https://rachelbrought.github.io/Student-Portfolio/FinalPartTwo)
