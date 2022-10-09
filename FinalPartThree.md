@@ -16,7 +16,7 @@ Much of the data I found was in written form, and iterating how to demonstrate t
 I used 19 different sources while researching this project. 
 
 ## Pesona/User
-The final persona/user of my project is museum managaers. Orginially I was thinking this would be relevant to all arts managers (which it may be), but as I went through my research I wanted to narrow it down specifically to museum managers in order to provide them data and resources that are really relevant to their work specifically. 
+The final persona/user of my project is museum managers. Orginially I was thinking this would be relevant to all arts managers (which it may be), but as I went through my research I wanted to narrow it down specifically to museum managers in order to provide them data and resources that are really relevant to their work specifically. 
 
 
 ## Last Iterations: Final Project
@@ -38,4 +38,11 @@ Finally I added pictures to the Louvre timeline to give more of a visual referen
 
 Other than these main changes, I just cleaned up the shorthand and made it flow from section to section a bit better. 
 
-# 
+## Key Takeaways from this Process
+Some of the major things I learned throughout this process were:
+* Feedback is crucial for data visualizations, because you (as someone who knows the data you are showing) might think a chart or graph is perfectly clear, but someone who is new to the idea or data may be very confused by what point it is trying to make or even what data it is displaying.
+* Consistent formatting, color, and text actually makes the argument make more sense: It doesn't just look nicer. 
+    - I realized this through the first few iterations of this project--the people I was getting feedback from genuinely seemed to understand the information conveyed more clearly when there was a consistent style throughout the project. It seems like when the brain has to do less of the work in terms of making those connections, it can focus more clearly on the information itself.
+
+## Presentation
+Beca
