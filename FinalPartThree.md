@@ -46,3 +46,5 @@ Some of the major things I learned throughout this process were:
 
 ## Presentation
 Because there are so many different data points in this project, and I only have one minute to present, I think my presentation will focus largely on the first graphic/point: That museums are only showing a very minimal percent of the works that they have on view. Especially because this presentation will be to a room of people who are not museum managers, I think that data point is one that everyone can see as compelling: no one likes to think about thousands of priceless works just sitting in storage, not being used for any public benefit. I will highlight briefly the other justifications that are included in the Shorthand, but want to keep my presentation as clear, simple, concise, and compelling as possible.
+
+## [Click Here to Go to Story] (https://carnegiemellon.shorthandstories.com/digital-futures-for-museums/index.html)
