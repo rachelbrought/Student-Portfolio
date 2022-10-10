@@ -139,3 +139,23 @@ Because there are so many different data points in this project, and I only have
 
 ## [Click Here to Go to my Final on Shorthand](https://carnegiemellon.shorthandstories.com/digital-futures-for-museums/index.html)
 
+## References 
+“A Decade of Arts Engagement: Findings from the Survey of Public Participation in the Arts, 2002-2012.” National Endowment for the Arts, January 2015.
+Bambury, Steve. “10 Amazing Virtual Museum Tours.” virtualiteach, August 20, 2017. https://www.virtualiteach.com/post/2017/08/20/10-amazing-virtual-museum-tours.
+Bradley, Kimberly. “Why Museums Hide Masterpieces Away.” Accessed October 9, 2022. https://www.bbc.com/culture/article/20150123-7-masterpieces-you-cant-see.
+“Coronavirus Research Series 4: Media Consumption and Sport.” Global Web Index, April 2020. https://www.gwi.com/hubfs/1.%20Coronavirus%20Research%20PDFs/GWI%20coronavirus%20findings%20April%202020%20-%20Media%20Consumption%20(Release%204).pdf.
+“Culture Track 2017 Study.” La Placa Cohen. Accessed September 28, 2022. https://2017study.culturetrack.com/.
+“Digitizing for Preservation and Access: Best Practices for Every Budget | The Sustainable Heritage Network.” Accessed October 9, 2022. https://sustainableheritagenetwork.org/digital-heritage/digitizing-preservation-and-access-best-practices-every-budget.
+Dilenschneider, Colleen. “The Five Biggest Barriers to Attending Cultural Entities in 2020 (DATA).” Colleen Dilenschneider, September 16, 2020. https://www.colleendilen.com/2020/09/16/the-five-biggest-barriers-to-attending-cultural-entities-in-2020-data/.
+“Disability and Employment Status Report for the United States, 2012.” Accessed October 9, 2022. https://disabilitystatistics.org/reports/2012/English/HTML/report2012.cfm.
+Fabrikant, Geraldine. “The Good Stuff in the Back Room.” The New York Times, March 12, 2009, sec. Arts. https://www.nytimes.com/2009/03/19/arts/artsspecial/19TROVE.html.
+“Key Findings From Wave 2, Culture Track.” LaPlaca Cohen, November 23, 2021. https://s28475.pcdn.co/wp-content/uploads/2021/11/CCTT-Key-Findings-from-Wave-2.pdf.
+Longo, Eric. “The Ultimate Guide to Virtual Museum Resources.” MCN, March 15, 2020. https://mcn.edu/a-guide-to-virtual-museum-resources/.
+“Louvre Museum Official Website.” Accessed October 9, 2022. https://www.louvre.fr/en.
+Mcclain, Colleen, Emily a Vogels, Andrew Perrin, Stella Sechopoulos, and Lee Rainie. “The Internet and the Pandemic.” Pew Research Center: Internet, Science & Tech (blog), September 1, 2021. https://www.pewresearch.org/internet/2021/09/01/the-internet-and-the-pandemic/.
+“Museum Definition - International Council of Museums -International Council of Museums.” Accessed October 9, 2022. https://icom.museum/en/resources/standards-guidelines/museum-definition/.
+Poria, Yaniv, Arie Reichel, and Yael Brandt. “People with Disabilities Visit Art Museums: An Exploratory Study of Obstacles and Difficulties.” Journal of Heritage Tourism 4, no. 2 (May 1, 2009): 117–29. https://doi.org/10.1080/17438730802366508.
+Richardson, Jim. “Virtual Reality Is a Big Trend in Museums, but What Are the Best Examples of Museums Using VR?” MuseumNext, July 31, 2021. https://www.museumnext.com/article/how-museums-are-using-virtual-reality/.
+———. “When ‘Digital’ Meets Collection: How Do (Traditional) Museums Manage?” MuseumNext, March 6, 2019. https://www.museumnext.com/article/when-digital-meets-collection-how-do-traditional-museums-manage/.
+Vonage. “Half of Consumers Have Increased Digital Engagement with Businesses Since Start of Pandemic, with Preference for Video Chat Climbing 300%, Vonage Research Reveals.” Accessed October 9, 2022. https://www.prnewswire.com/news-releases/half-of-consumers-have-increased-digital-engagement-with-businesses-since-start-of-pandemic-with-preference-for-video-chat-climbing-300-vonage-research-reveals-301418908.html.
+Woods, John. “The Best VR Headsets for Business in 2021.” XR Today, January 27, 2021. https://www.xrtoday.com/virtual-reality/the-best-vr-headsets-for-business-in-2021/.
