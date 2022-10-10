@@ -85,7 +85,6 @@ Some key quotes from my user research:
 - "The call to action could be stronger, and include practical resources" (I added in a section that I plan on working on regarding resources.)
 - "Could you make the images on the line graph more clear?"
 
-[Click here](https://preview.shorthand.com/20V86no6qL0z9Zip) to view my storyboard on Shorthand
 
 
 # Final Part Three
