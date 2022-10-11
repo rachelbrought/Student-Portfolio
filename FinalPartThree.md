@@ -1,5 +1,9 @@
-# Final Part Three
 
+[Final Project Part One--Planning and Sketching](https://rachelbrought.github.io/Student-Portfolio/FinalPartOne)
+
+[Final Project Part Two--User research on Storyboard](https://rachelbrought.github.io/Student-Portfolio/FinalPartTwo)
+
+# Final Part Three
 ## It's Time to Work Towards Digital Futures for Museums
 This project has been researched, added to, researched, and re-iterated over the course of the past few weeks.
 The final products showcases a few main justifications for my central claim (see title). These sections include:
